@@ -1,6 +1,6 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Sudarshan Devkota (TheRawBit)</h1>
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Jetbrains+mono&size=30&pause=1000&color=DC980C&center=true&vCenter=true&width=500&lines=Java+Developer;Cybersecurity+Enthusiast" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Jetbrains+mono&size=30&pause=1000&color=DC980C&center=true&vCenter=true&width=500&lines=Building+Resilient+Systems;Breaking+The+Unbreakable" alt="Typing SVG" /></a>
 </p>
 
 
@@ -12,8 +12,8 @@
 <img src="https://skillicons.dev/icons?i=java,spring,mysql,postgresql,linux,bash,docker,git,python,maven,gradle,nginx,react,html,css,javascript,aws,neovim,flask,postman,kafka,github,idea,androidstudio,arch&perline=9"/>
   </p>
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=therawbit&theme=dark" alt="therawbit" /></p>
-
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=therawbit&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="therawbit" /></p>
+<p align="center"><img align="center" src="https://nirzak-streak-stats.vercel.app/?user=therawbit&theme=dark&hide_border=false" alt="therawbit" /></p>
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=therawbit&show_icons=true&locale=en&layout=compact&theme=dark" alt="therawbit" /></p>
 
 
