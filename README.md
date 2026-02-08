@@ -12,9 +12,7 @@
 <img src="https://skillicons.dev/icons?i=java,spring,mysql,postgresql,linux,bash,docker,git,python,maven,gradle,nginx,react,html,css,javascript,aws,neovim,flask,postman,kafka,github,idea,androidstudio,arch&perline=9"/>
   </p>
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=therawbit&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="therawbit" /></p>
 <p align="center"><img align="center" src="https://nirzak-streak-stats.vercel.app/?user=therawbit&theme=dark&hide_border=false" alt="therawbit" /></p>
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=therawbit&show_icons=true&locale=en&layout=compact&theme=dark" alt="therawbit" /></p>
 
 
 
